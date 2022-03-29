@@ -59,7 +59,7 @@ namespace Practica
         public static Boolean CustomValidation(this String str)
         {
             string pattern = @"[A-Z]{1}[a-z]{3}[0-9]{4}";
-            Regex regex = new Regex(pattern);
+            Regex regex = new(pattern);
             bool valida = regex.IsMatch(str);
             return valida;
         }
