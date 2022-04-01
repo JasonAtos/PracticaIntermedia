@@ -1,0 +1,16 @@
+C:\Users\Jason\source\repos\PracticaIntermedia\IntermediaII\bin\Debug\net5.0\IntermediaII.exe
+C:\Users\Jason\source\repos\PracticaIntermedia\IntermediaII\bin\Debug\net5.0\IntermediaII.deps.json
+C:\Users\Jason\source\repos\PracticaIntermedia\IntermediaII\bin\Debug\net5.0\IntermediaII.runtimeconfig.json
+C:\Users\Jason\source\repos\PracticaIntermedia\IntermediaII\bin\Debug\net5.0\IntermediaII.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\PracticaIntermedia\IntermediaII\bin\Debug\net5.0\IntermediaII.dll
+C:\Users\Jason\source\repos\PracticaIntermedia\IntermediaII\bin\Debug\net5.0\IntermediaII.pdb
+C:\Users\Jason\source\repos\PracticaIntermedia\IntermediaII\obj\Debug\net5.0\IntermediaII.csproj.AssemblyReference.cache
+C:\Users\Jason\source\repos\PracticaIntermedia\IntermediaII\obj\Debug\net5.0\IntermediaII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\source\repos\PracticaIntermedia\IntermediaII\obj\Debug\net5.0\IntermediaII.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\PracticaIntermedia\IntermediaII\obj\Debug\net5.0\IntermediaII.AssemblyInfo.cs
+C:\Users\Jason\source\repos\PracticaIntermedia\IntermediaII\obj\Debug\net5.0\IntermediaII.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\PracticaIntermedia\IntermediaII\obj\Debug\net5.0\IntermediaII.dll
+C:\Users\Jason\source\repos\PracticaIntermedia\IntermediaII\obj\Debug\net5.0\refint\IntermediaII.dll
+C:\Users\Jason\source\repos\PracticaIntermedia\IntermediaII\obj\Debug\net5.0\IntermediaII.pdb
+C:\Users\Jason\source\repos\PracticaIntermedia\IntermediaII\obj\Debug\net5.0\IntermediaII.genruntimeconfig.cache
+C:\Users\Jason\source\repos\PracticaIntermedia\IntermediaII\obj\Debug\net5.0\ref\IntermediaII.dll
